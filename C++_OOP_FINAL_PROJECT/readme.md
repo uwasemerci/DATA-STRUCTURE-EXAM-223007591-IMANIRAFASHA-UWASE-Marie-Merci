@@ -295,6 +295,8 @@ int main() { :The entry point of the program. Execution begins here.
     return 0; : Returns 0, indicating that the program executed successfully.
 }
 
+SCREENSHOT DETAILED FOR THAT PROVIDED CODE:
+
 ![1 text](https://github.com/user-attachments/assets/0caf25ee-0c9f-43d1-9c5e-eae314b8c211)
 
 ![2 text](https://github.com/user-attachments/assets/992d93a0-7d02-48bb-85cc-d1e2c4dcd62a)
