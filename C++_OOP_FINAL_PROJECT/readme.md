@@ -1,4 +1,6 @@
 Payroll System with Overtime – Object-Oriented Programming Assignment
+
+
 Introduction
 This project is focused on building a Payroll System that manages employee working hours, computes payments including overtime, and utilizes object-oriented programming (OOP) concepts in C++. It highlights the application of inheritance, polymorphism, and dynamic memory management to develop a flexible and scalable solution.
 WorkDay Structure
@@ -37,6 +39,8 @@ To allow flexible management of daily work logs, the system implements two core 
 These functions reinforce the importance of dynamic memory allocation and deallocation, a crucial aspect of C++ programming.
 
  HERE ARE DETAILED CODE WITH EVERY COMMENT
+
+ 
  #include <iostream> : Includes the iostream library, essential for input and output operations like 'cout' (for printing) and 'cin' (for reading).
 #include <string>  : Includes the string library, which provides the 'string' class for working with sequences of characters.
 using namespace std; : This line brings the 'std' namespace into scope, so you don't have to type 'std::' before standard library elements like 'cout', 'cin', and 'string'.
